@@ -1,5 +1,3 @@
-/* Generated using nova-theme-generator.com */
-
 :root {
     --transparent: transparent;
     --black: #4F504F;
@@ -31,4 +29,3 @@
 .bg-grad-sidebar {
   background-image: linear-gradient(0deg, #734b6d 0%, #000428 100%);
 }
-#42275a → #734b6d
